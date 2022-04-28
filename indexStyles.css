@@ -12,6 +12,8 @@ h1 {
 links{
   background-color: #e3e3e3b; 
   font-size: 36px;
-  padding: 0px;
+  border-top-width: 11px;
+  border-top-style: groove;
+  border-top-color: rgba(160,160,160,0.85);
   text-color: black;
 }
