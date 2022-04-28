@@ -16,7 +16,7 @@ h1 {
 links{
   font-size: 20px;
   border-top-width: 11px;
-  border-top-style: groove;
+  border-top-style: solid;
   border-top-color: rgba(160,160,160,0.85);
   text-color: black;
 }
