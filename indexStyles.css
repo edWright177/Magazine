@@ -1,6 +1,10 @@
 html {
   background-color: #ffffff;
-  font-family: "Amiri", serif; 
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 }
 
 h1 {
