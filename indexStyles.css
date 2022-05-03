@@ -5,10 +5,8 @@ html {
   top: 50%;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
-  -ms-transform: translateX(50%);
-  transform: translateX(50%);
   text-align: center;
-  text-color: black;
+  text-color: #262626;
 }
 
 h1 {
