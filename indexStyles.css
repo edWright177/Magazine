@@ -25,6 +25,21 @@ links{
   border-top-length: 50%;
   border-top-style: ridge;
   border-top-color: rgba(160,160,160,0.85);
-  text-color: black;
 }
 
+a:link{
+  text-decoration: none;
+  text-color: #262626;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
