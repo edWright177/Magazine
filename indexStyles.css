@@ -27,7 +27,7 @@ h1{
   height: 50px;
   background-color: #303030;
   border-bottom-width: 20px;
-  border-bottom-style: double;
+  border-bottom-style: ridge;
   border-bottom-color: rgba(160,160,160,0.85);
   font-family: "Trebuchet MS", sans-serif;
 }
