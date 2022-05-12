@@ -24,27 +24,6 @@ footer{
 }
 */
 
-links{
-    word-spacing: 10px;
-    font-size: 30px;
-    border-top-width: 20px;
-    border-top-style: ridge;
-    border-top-color: rgba(160,160,160,0.85);
-}
-link3s{
-    word-spacing: 10px;
-    font-size: 30px;
-    border-top-width: 20px;
-    border-top-style: ridge;
-    border-top-color: rgba(160,160,160,0.85);
-}
-works{
-    font-size: 30px;
-    border-top-width: 20px;
-    border-top-style: ridge;
-    border-top-color: rgba(160,160,160,0.85);
-}
-
 .grid-container {
   display: flex;
   gap: 30px;
@@ -56,6 +35,7 @@ works{
   border-bottom-width: 20px;
   border-bottom-style: solid;
   border-bottom-color: rgba(160,160,160,0.85);
+  font-family: "Trebuchet MS", sans-serif;
 }
 
 a:link{
@@ -79,6 +59,10 @@ a:link{
   }
   figure{
       margin-top: 100px;
+      margin-left: 0px;
+      border-left: 0px;
+      padding-left: 0px;
+      justify-content: left;
 }
 body{
     margin: 0px;
