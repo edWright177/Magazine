@@ -1,0 +1,33 @@
+<h2 class="selector">Profile</h2>
+
+<ul style="display:none">
+    r
+
+</ul>
+<script>
+function toggleDocs(event) {
+
+    if (event.target && event.target.className == 'selector') {
+
+        var next = event.target.nextElementSibling;
+
+
+        if (next.style.display == "none") {
+            next.style.display = "block";
+
+        } else {
+            next.style.display = "none";
+        }
+    }
+}
+
+document.addEventListener('click', toggleDocs, true);
+</script>
+<style>
+.selector {
+    cursor:pointer;
+}
+.selector:hover {
+    color:#515151;
+}
+</style>
