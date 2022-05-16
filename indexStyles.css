@@ -16,6 +16,7 @@ h1{
     font-size: 80px;
     text-shadow: 1px 0px 1px #CCCCCC, 0px 1px 1px #EEEEEE, 2px 1px 1px #CCCCCC, 1px 2px 1px #EEEEEE, 3px 2px 1px #CCCCCC, 2px 3px 1px #EEEEEE, 4px 3px 1px #CCCCCC, 3px 4px 1px #EEEEEE, 5px 4px 1px #CCCCCC, 4px 5px 1px #EEEEEE, 6px 5px 1px #CCCCCC, 5px 6px 1px #EEEEEE, 7px 6px 1px #CCCCCC;
     font-family: "Trebuchet MS", sans-serif;
+    margin: 47px;
 }
 
 .grid-container {
@@ -51,27 +52,32 @@ a:link{
     text-decoration: underline;
     color: #262626;
   }
-  figure{
-      margin-top: 100px;
-      margin-left: 0px;
-      border-left: 0px;
-      padding-left: 0px;
-      justify-content: center;
+figure {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    margin-left: 0px;
+    border-left: 0px;
+    padding-left: 0px;
+    
 }
 body{
     margin: 0px;
 }
-img{
-  display: flex;
-  justify-content: center;
-  width: 60%;
-  height:60%;
+img {
+    width: 60%;
+    height: 60%;
+    border-radius: 1%;
 }
 
 figure {
-    display: block;
     margin-block-start: 0;
     margin-block-end: 0;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
+    margin-bottom: 47px;
+}
+footer {
+    color: #303030;
+    margin-bottom: 2px;
 }
