@@ -7,3 +7,5 @@ Made by Ed Wright, 2022.
   ### Editor's Note: A note from the editor (amazing).
   ### Projects: A gallery of various relevant projects.
   ### Works Cited: Contains MLA citations for the project gallery, especially the information effect (finish).
+
+## Please add a color scheme (please)
