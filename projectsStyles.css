@@ -67,3 +67,8 @@ a:link{
   p{
     line-height: 25px;
   }
+
+  audio{
+    display: flex;
+    justify-content: center;
+  }
